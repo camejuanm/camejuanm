@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-My name is Juan and I'm a third year university student in [Universitas Multimedia Nusantara](umn.ac.id).\
+My name is Juan and I'm a final year university student in [Universitas Multimedia Nusantara](umn.ac.id).\
 I'm an Computer Engineering major.\
 🌱 I’m currently learning Cloud Computing at [Bangkit Academy 2022](https://grow.google/intl/id_id/bangkit/)\
 📫 You can reach me from my [LinkedIn](https://www.linkedin.com/in/camejuanm/) page!
 <!--
-**camestudentjuan/camestudentjuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**camejuanm/camejuanm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
